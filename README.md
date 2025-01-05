@@ -1,6 +1,4 @@
-The content in the uploaded file closely matches your request. Here's a creative reimagining of it with enhanced clarity, engagement, and formatting for better presentation:
 
----
 
 # 🎾 Tennis Player and Ball Detection with YOLOv5 and Streamlit 🚀
 
