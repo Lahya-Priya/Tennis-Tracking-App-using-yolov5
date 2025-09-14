@@ -10,3 +10,4 @@ requests
 scipy
 torchvision
 tqdm
+seaborn
